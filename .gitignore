@@ -1,0 +1,7 @@
+*.o
+output/
+isodir/
+makeiso.sh
+temp.vbs
+build.bat
+source/unused
